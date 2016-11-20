@@ -1,0 +1,14 @@
+[
+   {
+      "uid":"Alice",
+      "password":"457a775967f17aaed2d45d077ff8473a78c71d8de2ebc83377e8cf9d741a1b72",
+      "salt":"Zqp71YxTGUPSxBPB",
+      "elogkey":"bd36b56e279cecc295610b9190f288e8"
+   },
+   {
+      "uid":"Bob",
+      "password":"42f7c26866ffae1d6a5ab27004fdd6524edfcbb0c771c4346bf69404715ae18f",
+      "salt":"MlgNHgOi2Ir8HPiR",
+      "elogkey":"2446fad34cf329b42f92488db54cc186"
+   }
+]
